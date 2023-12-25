@@ -9,6 +9,8 @@ public class SampleClass {
 		System.out.println("This is the changes for the third branch");
 		System.out.println("This is the second change in the Master branch");
 		System.out.println("This is the changes for the fourth branch");
+		
+		
 
 	}
 
