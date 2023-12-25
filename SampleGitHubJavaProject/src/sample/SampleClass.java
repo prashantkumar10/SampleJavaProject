@@ -7,6 +7,7 @@ public class SampleClass {
 		System.out.println("This is the changes for the first branch");
 		System.out.println("This is the changes in the Master Branch");
 		System.out.println("This is the changes for the third branch");
+		System.out.println("This is the changes for the fourth branch");
 	}
 
 }
