@@ -24,6 +24,7 @@ public class SampleClass {
 		int sub=a-4;
 		System.out.println(sub);
 		
+		System.out.println("Hello Jenkins");
 		
 
 	}
